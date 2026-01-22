@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Docker**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **nithish031105@gmail.com**
 
